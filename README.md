@@ -21,7 +21,7 @@
 
 
 
-</div>
+<br/>
 <!-- STACK & TECHS -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=FFB6C1&center=true&vCenter=true&width=400&height=40&letterSpacing=3px&lines=STACK+%26+TECHS" alt="Stack & Techs" />
@@ -36,3 +36,4 @@
 </p>
 
 </div>
+
