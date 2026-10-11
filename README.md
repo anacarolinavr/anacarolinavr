@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&section=header"/>
 
 <div align="center">
-  <samp><br>Hi there! I'm <b>Ana Carolina</b><br></samp>
+  <samp><br>Hi there! I'm <b>Ana Carolina.</b><br></samp>
 </div>
 
 
